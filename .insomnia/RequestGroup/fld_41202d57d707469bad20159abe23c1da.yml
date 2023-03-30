@@ -1,0 +1,10 @@
+_id: fld_41202d57d707469bad20159abe23c1da
+type: RequestGroup
+parentId: wrk_549da7e8e20e47a18bb70eee6c0f1db8
+modified: 1680155494910
+created: 1680155494910
+name: SpringBootVMWareExample
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1680155494910
